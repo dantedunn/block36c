@@ -1,0 +1,17 @@
+{
+  "name": "36b-notes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "jest": "^29.7.0",
+    "pg": "^8.15.6"
+  }
+}
